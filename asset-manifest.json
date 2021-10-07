@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MarceloMMacedo/digital-app-estoque.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/MarceloMMacedo/digital-app-estoque.git/static/js/main.f535076d.chunk.js",
+    "main.js.map": "/MarceloMMacedo/digital-app-estoque.git/static/js/main.f535076d.chunk.js.map",
+    "runtime-main.js": "/MarceloMMacedo/digital-app-estoque.git/static/js/runtime-main.423db9c0.js",
+    "runtime-main.js.map": "/MarceloMMacedo/digital-app-estoque.git/static/js/runtime-main.423db9c0.js.map",
+    "static/js/2.20789f49.chunk.js": "/MarceloMMacedo/digital-app-estoque.git/static/js/2.20789f49.chunk.js",
+    "static/js/2.20789f49.chunk.js.map": "/MarceloMMacedo/digital-app-estoque.git/static/js/2.20789f49.chunk.js.map",
+    "static/js/3.e53bf009.chunk.js": "/MarceloMMacedo/digital-app-estoque.git/static/js/3.e53bf009.chunk.js",
+    "static/js/3.e53bf009.chunk.js.map": "/MarceloMMacedo/digital-app-estoque.git/static/js/3.e53bf009.chunk.js.map",
+    "index.html": "/MarceloMMacedo/digital-app-estoque.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/MarceloMMacedo/digital-app-estoque.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.20789f49.chunk.js.LICENSE.txt": "/MarceloMMacedo/digital-app-estoque.git/static/js/2.20789f49.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MarceloMMacedo/digital-app-estoque.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423db9c0.js",
+    "static/js/2.20789f49.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f535076d.chunk.js"
+  ]
+}
